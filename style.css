@@ -1,0 +1,38 @@
+body {
+    font-family: Arial, sans-serif;
+    background: #333;
+  }
+  
+  .quiz-container {
+    max-width: 500px;
+    margin: 0 auto;
+    padding: 50px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    background-color: #f9f9f9;
+  }
+  h1{
+   
+    width: 70%; /* Set width as per your requirement */
+    max-width: 200px; /* Maximum width for responsiveness */
+    margin: 30px auto;
+    background: #FF704A;
+    color: #fff;
+    border-style: none;
+    border-radius: 20px;
+    padding: 10px;
+    /*border: 2px solid #333;*/
+    text-align: center;
+  
+}
+  
+  #quiz {
+    margin-bottom: 20px;
+  }
+  
+  #results {
+    display: none;
+    font-weight: bold;
+    color: green;
+  }
+  
